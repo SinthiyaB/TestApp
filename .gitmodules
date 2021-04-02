@@ -1,0 +1,3 @@
+[submodule "TestApp/FW"]
+	path = TestApp/FW
+	url = https://github.com/SinthiyaB/SLogger.git
